@@ -1,0 +1,21 @@
+
+---Downloaded files---
+The import files for: sass were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://riale
+Data file = C:\Users\Pavilion\Documents\dev\riale/wp-content/uploads/2020/11/demo-content-import-file_2020-11-06__12-17-52.xml
+Widget file = not defined!
+Customizer file = C:\Users\Pavilion\Documents\dev\riale/wp-content/uploads/2020/11/demo-customizer-import-file_2020-11-06__12-17-52.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---kadence-starter-templates/after_import---
+
